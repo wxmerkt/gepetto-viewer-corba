@@ -4,7 +4,7 @@
 #include <QFileDialog>
 #include <PythonQt/PythonQt.h>
 #include <PythonQt/PythonQt_QtAll.h>
-#include <PythonQt/gui/PythonQtScriptingConsole.h>
+#include <PythonQt/PythonQtScriptingConsole.h>
 #include <PythonQt/PythonQtClassInfo.h>
 #include <PythonQt/PythonQt_QtBindings.h>
 
